@@ -1,10 +1,10 @@
 package main
 
 import (
-	"financeapp/internal/api"
-	"financeapp/internal/config"
 	"net/http"
 
+	"github.com/hoochycoochie/webgolangstructure/internal/api"
+	"github.com/hoochycoochie/webgolangstructure/internal/config"
 	"github.com/sirupsen/logrus"
 )
 

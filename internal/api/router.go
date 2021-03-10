@@ -1,8 +1,9 @@
 package api
 
 import (
-	v1 "financeapp/internal/api/v1"
 	"net/http"
+
+	v1 "github.com/hoochycoochie/webgolangstructure/internal/api/v1"
 
 	"github.com/gorilla/mux"
 )

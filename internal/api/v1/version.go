@@ -2,8 +2,9 @@ package v1
 
 import (
 	"encoding/json"
-	"financeapp/internal/config"
 	"net/http"
+
+	"github.com/hoochycoochie/webgolangstructure/internal/config"
 
 	logrus "github.com/sirupsen/logrus"
 )
