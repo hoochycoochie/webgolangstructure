@@ -5,7 +5,7 @@ import (
 
 	"github.com/hoochycoochie/webgolangstructure/internal/api"
 	"github.com/hoochycoochie/webgolangstructure/internal/config"
-	"github.com/sirupsen/logrus"
+	logrus "github.com/sirupsen/logrus"
 )
 
 //Create server object and start listnener
